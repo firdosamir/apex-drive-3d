@@ -1,0 +1,6 @@
+{
+  "name": "Apex Drive 3D - Open World Simulator",
+  "description": "High-fidelity 3D open-world car driving simulator with realistic vehicle physics, AI traffic, dynamic weather & day/night cycles, tuning garage, and diverse driving missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
